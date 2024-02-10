@@ -1,6 +1,5 @@
 
-### ReverseEngineeringToolset is a set of tools ready for reverse engineering. Include custom automation tools & Instructions.
-
+### A complete set of tools & automation scripts, to reverse executables into C language.
 - - -
 
 # About the project:
