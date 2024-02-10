@@ -1,0 +1,1 @@
+https://github.com/radareorg/radare2/releases/tag/5.8.8
