@@ -45,9 +45,9 @@
 
 * Click twice on asmExport.
 
-* Go to the "out" folder
+* Go to the "out" folder.
 
-* Run `asm2c.bat <name of the asm file>`
+* Run `asm2c.bat <name of the asm file>`.
 
 - - -
 
