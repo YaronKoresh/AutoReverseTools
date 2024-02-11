@@ -83,8 +83,7 @@ def MemFix():
 
 def Disassemble():
 
-    disassembled = "bits64\n"
-    disassembled += "\nglobal main\n"
+    disassembled = "global main\n"
     disassembled += "\nsection .text\n"
     disassembled += "\nmain:\njmp " + entryPoint + "\n"
     
